@@ -1,0 +1,57 @@
+body{
+ 
+    margin: 10px;
+    padding: 0;
+
+}
+h1{
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    background-color: rgb(218, 197, 201);
+    align-items: center;
+    justify-content: center;
+  
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info{
+font-size: medium;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 10px;
+margin-bottom: 15px;
+}
+
+#i1{
+    background-color: rgb(182, 240, 221);
+}
+
+#i2{
+    background-color: rgb(201, 228, 219);
+}
+
+#i3{
+    background-color: rgb(182, 240, 221);
+}
+
+#i4{
+    background-color: rgb(184, 206, 199);
+}
+
+#i5{
+    background-color: rgb(182, 240, 221);
+}
+img
+{
+    background-color: azure;
+    margin: auto;
+    width: 80%;
+    border: 3px solid rgb(87, 88, 87);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
